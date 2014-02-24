@@ -1,0 +1,1 @@
+/* This is my Ruby on Rails Categuru App */
